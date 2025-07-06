@@ -1,12 +1,6 @@
-
 # Control statements control the execution flow of your program.
 # Decision-making statements:
 # If statement, if-else statement
-
-# to reformat the code :  shft+cntrl+Alt+l
-
-
-
 
 def compare_numbers():
     value_one = input("enter value one")
@@ -25,5 +19,6 @@ def compare_numbers():
             print("please enter the valued number")
     except ValueError:
         print("Please enter valid numeric values (integers or decimals).")
+
 
 compare_numbers()

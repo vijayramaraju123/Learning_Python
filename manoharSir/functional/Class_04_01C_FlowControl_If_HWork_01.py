@@ -1,4 +1,3 @@
-
 # Even or Odd
 
 try:
@@ -12,7 +11,7 @@ try:
         else:
             print(f"value {value_one} is odd")
     except Exception as e:
-        print(e)
+        print(f"value 1 is {e}")
 except Exception as e:
-    print(e)
+    print(f"value 2 is {e}")
 
