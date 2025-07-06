@@ -1,15 +1,11 @@
-
-
-
-
 str = "I am vijayawarda"
 data = 'today i am coming'
 three = """today i will come to 
             hyderabad"""
 
-#print(str)
-#print(data)
-#print(three)
+# print(str)
+# print(data)
+# print(three)
 
 s1 = "Hyderabad"
 print(s1[0])
